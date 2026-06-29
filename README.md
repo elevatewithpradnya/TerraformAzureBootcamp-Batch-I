@@ -65,13 +65,6 @@ Participants will learn how to troubleshoot, recover, and manage Terraform deplo
 
 🎉 The first bootcamp batch will be offered completely **FREE**.
 
-Future pricing will be finalized based on:
-
-* Participant feedback
-* Content enhancements
-* Additional labs
-* Community response
-
 ---
 
 # 📅 Day 1 Agenda (Saturday)
